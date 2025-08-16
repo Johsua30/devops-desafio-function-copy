@@ -11,6 +11,8 @@ Instalar:
 - Azure Functions Core Tools
 
 ### Estructura del Proyecto
+
+(Esta sección no se muestra correctamente en el visor de Github)
 azure-function-copy/
 ├── terraform/
 │   ├── main.tf
